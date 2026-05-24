@@ -414,7 +414,7 @@ export default function AIForecastingPage() {
                       border: "1px solid var(--border)",
                       boxShadow: "0 4px 12px rgba(0,0,0,.08)",
                     }}
-                    formatter={(value: number) => [`${value}%`, "MAPE"]}
+                    formatter={(value) => [`${value}%`, "MAPE"]}
                   />
                   <ReferenceLine
                     y={12}

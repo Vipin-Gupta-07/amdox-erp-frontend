@@ -261,7 +261,7 @@ export default function DashboardPage() {
                     borderRadius: "8px",
                     fontSize: "13px",
                   }}
-                  formatter={(value: number) => [`$${(value / 1000).toFixed(0)}k`, undefined]}
+                  formatter={(value) => [`$${(Number(value) / 1000).toFixed(0)}k`, undefined]}
                 />
                 <Legend />
                 <Area
