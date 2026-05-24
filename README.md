@@ -10,7 +10,7 @@
 
 **Next-generation intelligent resource planning platform delivering financial management, supply chain automation, HR & payroll, AI demand forecasting, project tracking, and business intelligence.**
 
-[Live Demo](#) · [Video Demo](#) · [Project Report](./docs/report.pdf)
+[Live Demo](https://amdox-erp-frontend.vercel.app/) · [Video Demo](#) · [Project Report](./docs/report.pdf)
 
 </div>
 
