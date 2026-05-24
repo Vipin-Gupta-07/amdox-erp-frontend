@@ -165,7 +165,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view the application.
+Open [http://localhost:3000](http://localhost:3000) to view the application locally, or visit the live deployment at [amdox-erp-frontend.vercel.app](https://amdox-erp-frontend.vercel.app/).
 
 ### Build for Production
 
