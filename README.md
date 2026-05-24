@@ -155,8 +155,8 @@ A scalable, AI-augmented, multi-tenant ERP platform purpose-built for mid-market
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/amdox-erp.git
-cd amdox-erp
+git clone https://github.com/Vipin-Gupta-07/amdox-erp-frontend.git
+cd amdox-erp-frontend
 
 # Install dependencies
 npm install
