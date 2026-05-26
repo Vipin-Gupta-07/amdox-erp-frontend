@@ -77,7 +77,7 @@ A scalable, AI-augmented, multi-tenant ERP platform purpose-built for mid-market
 └─────────────────────────────────────────────────────┘
 ```
 
----
+---------------
 
 ## Features
 
